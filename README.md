@@ -216,4 +216,4 @@ Partition Magic is offered as a complete free version, providing all features an
 Unlock your hard drive's potential today—**download Partition Magic for free** and take control of your partitions like never before!
 
 ---
-**Last updated:** 2026-11-06 03:49:14 UTC
+**Last updated:** 2026-11-06 11:38:35 UTC
